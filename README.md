@@ -1,4 +1,4 @@
-# AutoNeuro-Full-Stack-ML-Solution
+# AutoNeuro-Full Stack ML Solution
 
 Introduction
 
